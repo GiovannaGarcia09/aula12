@@ -1,0 +1,142 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   Licença: nenhuma (domínio público)
+*/
+
+
+HTML->,
+corpo,
+dividir,
+extensão,
+applet,
+objeto,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+citação em bloco,
+pré,
+um,
+abreviado,
+acrônimo,
+endereço,
+grande,
+citar,
+código,
+do,
+dfn,
+em,
+imagem,
+dentro,
+kbd,
+q,
+e,
+amostra,
+pequeno,
+batida,
+forte,
+sub,
+e aí?,
+tt,
+var,
+b,
+você,
+eu,
+centro,
+dl,
+dt,
+dd,
+oi,
+o,
+eu,
+conjunto de campos,
+forma,
+rótulo,
+lenda,
+mesa,
+rubrica,
+corpo,
+pé,
+cabeça,
+tr,
+o,
+td,
+artigo,
+aparte,
+tela,
+detalhes,
+incorporar,
+figura,
+legenda de figo,
+rodapé,
+cabeçalho,
+grupo h,
+menu,
+navegação,
+saída,
+rubi,
+seção,
+resumo,
+tempo,
+marca,
+áudio,
+vídeo{
+    margem: 0;
+    preenchimento: 0;
+    fronteira: 0;
+    tamanho da fonte: 100%;
+    fonte:herdar;
+    alinhamento vertical:linha de base;
+}
+
+
+/* Redefinição da função de exibição HTML5 para navegadores mais antigos */
+artigo,
+aparte,
+detalhes,
+legenda de figo,
+figura,
+rodapé,
+cabeçalho,
+grupo h,
+menu,
+navegação,
+seção{
+    mostrar:bloquear;
+}
+
+
+corpo{
+    altura da linha: 1;
+}
+
+
+oi,
+o{
+    estilo de lista:nenhum;
+}
+
+
+citação em bloco,
+q{
+    citações:nenhum;
+}
+
+
+citação em bloco:antes,
+citação em bloco:depois,
+q:antes,
+q:depois{
+    contente: '';
+    contente:nenhum;
+}
+
+
+mesa{
+    colapso de fronteira:colapso;
+    espaçamento de borda: 0;
+}
