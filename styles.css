@@ -1,0 +1,24 @@
+@importar URL("estilos/cabeçalho.css");
+@importar URL("estilos/banner.css");
+@importar URL("estilos/carrossel.css");
+@importar URL("estilos/tópicos.css");
+@importar URL("estilos/contato.css");
+@importar URL("estilos/rodapé.css");
+
+
+:raiz{
+    --cor-de-fundo: #EBECE;
+    --branco: #FFFFFFF;
+    --laranja: #EB9B00;
+    --azul-degradado: gradiente linear(97,54graus, #002f52 35,49%, #326589 165,37%);
+    --fonte-principal: "Poppins";
+    --azul: #002F52;
+}
+
+
+corpo{
+    cor de fundo: var(--cor-de-fundo);
+    família de fontes: var(--fonte-principal);
+    tamanho da fonte: 16px;
+    espessura da fonte: 400;
+}
